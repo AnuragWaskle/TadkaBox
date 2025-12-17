@@ -82,9 +82,9 @@
       <td align="center"><b>Order Tracking</b></td>
     </tr>
     <tr>
-      <td><img src="./assets/adaptive-icon.png" width="200" alt="Home Screen" /></td>
-      <td><img src="./assets/icon.png" width="200" alt="Menu Screen" /></td>
-      <td><img src="./assets/splash-icon.png" width="200" alt="Tracking" /></td>
+      <td><img src="./assets/Screenshot_20251217_132956.png" width="200" alt="Home Screen" /></td>
+      <td><img src="./assets/Screenshot_20251217_133034.png" width="200" alt="Menu Screen" /></td>
+      <td><img src="./assets/Screenshot_20251217_133051.png" width="200" alt="Tracking" /></td>
     </tr>
   </table>
 </div>
